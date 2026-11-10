@@ -40,7 +40,7 @@ __plugin__ = {
     "name": "音乐搜索下载",
     "id": "mymusic",
     "version": "2.0.2",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mymusic_v1.svg",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mymusic_v1.svg",
     "author": "凹凸曼",
     "description": "聚合搜索 5 音源（网易云/QQ/酷狗/酷我/咪咕）+ YouTube，支持 .yy 聚合搜索、.yyyt YouTube、.yywy 网易云等",
     "tags": ["音乐", "搜索", "下载"],

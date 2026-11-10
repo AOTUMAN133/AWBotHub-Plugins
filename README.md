@@ -1,4 +1,4 @@
-# AWBotNest-Plugins
+# AWBotHub-Plugins
 
 > AWBotNest 官方插件仓库 —— 平台**内置**此仓库，它会自动出现在每个平台的「插件商店」里。这里的每个插件都遵循平台「**单文件 / 文件夹插件**」规范。
 

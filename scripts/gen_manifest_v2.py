@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""扫描 AOTUMAN133/AWBotNest-Plugins 所有插件, 生成 manifest_v2.json
+"""扫描 AOTUMAN133/AWBotHub-Plugins 所有插件, 生成 manifest_v2.json
 V2 规范: 顶层 {"plugins": {id: {...}}}, version 必须与插件 __plugin__ 一致
 """
 import ast, json, os, re, sys
 
-REPO_ROOT = '/root/AWBotNest-Plugins'
+REPO_ROOT = '/root/AWBotHub-Plugins'
 OUT = os.path.join(REPO_ROOT, 'manifest_v2.json')
-BASE_URL = 'https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main'
+BASE_URL = 'https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main'
 
 def find_plugin_meta(path):
     """从单文件或目录 __init__.py 提取 __plugin__"""

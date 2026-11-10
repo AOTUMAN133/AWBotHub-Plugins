@@ -19,7 +19,7 @@ __plugin__ = {
     "name": "115签到",
     "id": "my115sign",
     "version": "2.0.2",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/my115sign_v1.svg",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/my115sign_v1.svg",
     "author": "凹凸曼",
     "description": "115网盘每日自动签到，支持多账号、WxPusher推送、扫码登录。用法: .115sign 签到 / .115login 扫码登录",
     "tags": ["115网盘", "签到", "多账号"],

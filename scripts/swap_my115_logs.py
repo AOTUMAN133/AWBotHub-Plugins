@@ -2,7 +2,7 @@
 """my115: 批量把 ctx.log.info/warning 替换为 _log(ctx, level, ...), error 保留 ctx.log.error"""
 import re
 
-PATH = '/root/AWBotNest-Plugins/plugins/my115/__init__.py'
+PATH = '/root/AWBotHub-Plugins/plugins/my115/__init__.py'
 src = open(PATH, encoding='utf-8').read()
 
 # info → _log(ctx, "info", ...

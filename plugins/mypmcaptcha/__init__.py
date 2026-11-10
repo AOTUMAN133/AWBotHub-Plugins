@@ -15,7 +15,7 @@ __plugin__ = {
     "name": "私聊拦截",
     "id": "mypmcaptcha",
     "version": "2.0.1",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mypmcaptcha_v2.svg",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mypmcaptcha_v2.svg",
     "author": "凹凸曼",
     "description": "陌生人私聊时自动发送验证题，通过后放行，失败后执行屏蔽/举报等操作。",
     "tags": ["私聊", "验证", "拦截"],

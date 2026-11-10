@@ -12,7 +12,7 @@ __plugin__ = {
     "version": "1.0.0",
     "author": "凹凸曼",
     "description": "到点自动用你的账号往指定群/会话发消息。支持多个会话，每个会话可单独设时间和内容。时间支持每天定点、每隔几小时/几分钟、或 cron 表达式。",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/family_reply.png",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/family_reply.png",
     "changelog": "v1.0.0 复制版首发\\n- 复制自官方 custom_auto_reply v2.0.2\\n- 独立 id auto_reply_copy，与原插件互不干扰\\n- 适配本仓库目录结构与命名规范",
     "scope": "user",
     "default_enabled": False,

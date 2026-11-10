@@ -14,7 +14,7 @@ __plugin__ = {
     "name": "B站&YouTube搜索",
     "id": "bili_search",
     "version": "2.0.4",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/bili_search_v2.svg",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/bili_search_v2.svg",
     "author": "凹凸曼",
     "description": "B站+YouTube搜索下载。.spb搜B站，.spy搜YouTube，.sp聚合搜索",
     "tags": ["B站", "YouTube", "搜索下载"],

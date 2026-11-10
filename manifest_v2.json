@@ -7,7 +7,7 @@
       "description": "B站+YouTube搜索下载。.spb搜B站，.spy搜YouTube，.sp聚合搜索",
       "scope": "user",
       "path": "plugins/bili_search/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/bili_search_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/bili_search_v2.svg",
       "tags": [
         "B站",
         "YouTube",
@@ -46,7 +46,7 @@
       "description": "通用监控频道里的 115 分享，读取/识别 TMDB 后查 Emby 媒体库，缺失的转发给 CMS 入库机器人。可选电影/电视剧，默认全部。",
       "scope": "user",
       "path": "plugins/my115/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/my115_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/my115_v2.svg",
       "tags": [
         "115网盘",
         "监控",
@@ -61,7 +61,7 @@
       "description": "扫描指定频道的历史消息，识别115链接→TMDB→Emby查重→缺失转发到CMS入库。",
       "scope": "user",
       "path": "plugins/my115scan/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/my115scan_v2.svg"
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/my115scan_v2.svg"
     },
     "my115sign": {
       "name": "115签到",
@@ -70,7 +70,7 @@
       "description": "115网盘每日自动签到，支持多账号、WxPusher推送、扫码登录。用法: .115sign 签到 / .115login 扫码登录",
       "scope": "user",
       "path": "plugins/my115sign/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/my115sign_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/my115sign_v2.svg",
       "tags": [
         "115网盘",
         "签到",
@@ -84,7 +84,7 @@
       "description": "私聊/群@你时 AI 人形对话（带记忆，群聊可指定群组）；可选随机主动搭话开启话题；回复消息发 /ai 让 AI 解释或解答（支持图片）。支持 .sum 群消息总结。自带 Vue 配置界面 + 对话记忆管理。",
       "scope": "user",
       "path": "plugins/myai/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/myai_v2.svg"
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/myai_v2.svg"
     },
     "mybet": {
       "name": "自动下注",
@@ -93,7 +93,7 @@
       "description": "监听彩票开奖结果，顺势下注。平常500，连错N次后下大注反击。",
       "scope": "user",
       "path": "plugins/mybet/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mybet_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mybet_v2.svg",
       "tags": [
         "下注",
         "自动"
@@ -106,7 +106,7 @@
       "description": "配合 DockerCopilot 实现容器自动更新、清理、备份。",
       "scope": "user",
       "path": "plugins/mydc/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mydc_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mydc_v2.svg",
       "tags": [
         "Docker",
         "容器"
@@ -119,7 +119,7 @@
       "description": "豆包 AI 多模态生成。支持 .st 文生图，.ssp 文生视频，.sy 文生音乐。免费免 Key，扫码登录豆包账号即可使用。",
       "scope": "user",
       "path": "plugins/mydraw/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mydraw_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mydraw_v2.svg",
       "tags": [
         "AI生图",
         "豆包"
@@ -132,7 +132,7 @@
       "description": "自动完成 re0.me 每日签到，支持多账号、赌狗签到、失败重试。",
       "scope": "user",
       "path": "plugins/myhdhivesign/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/myhdhivesign_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/myhdhivesign_v2.svg",
       "tags": [
         "签到",
         "re0"
@@ -145,7 +145,7 @@
       "description": "聚合搜索 5 音源（网易云/QQ/酷狗/酷我/咪咕）+ YouTube，支持 .yy 聚合搜索、.yyyt YouTube、.yywy 网易云等",
       "scope": "user",
       "path": "plugins/mymusic/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mymusic_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mymusic_v2.svg",
       "tags": [
         "音乐",
         "搜索",
@@ -172,7 +172,7 @@
       "description": "陌生人私聊时自动发送验证题，通过后放行，失败后执行屏蔽/举报等操作。",
       "scope": "user",
       "path": "plugins/mypmcaptcha/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mypmcaptcha_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mypmcaptcha_v2.svg",
       "tags": [
         "私聊",
         "验证",
@@ -186,7 +186,7 @@
       "description": "群消息存储+总结+问答+搜索。自动存储消息，支持 .sum .ask .search",
       "scope": "user",
       "path": "plugins/mysummary/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/mysummary_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/mysummary_v2.svg",
       "tags": [
         "AI",
         "总结"
@@ -199,7 +199,7 @@
       "description": "掷筊占卜，随机生成胜/阳/阴三筊并解读卦辞。用法: .zj",
       "scope": "user",
       "path": "plugins/myzhijiao/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/myzhijiao_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/myzhijiao_v2.svg",
       "tags": [
         "占卜",
         "掷筊"
@@ -212,7 +212,7 @@
       "description": "多平台视频/图文解析下载。支持 /jx 解析链接。支持抖音/B站/优酷/腾讯/爱奇艺/YouTube等1000+平台（videodl原生+ParseHub+yt-dlp三引擎）。",
       "scope": "user",
       "path": "plugins/videodl/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/videodl_v2.svg",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/videodl_v2.svg",
       "tags": [
         "视频下载",
         "聚合解析"
@@ -266,7 +266,7 @@
       "description": "到点自动用你的账号往指定群/会话发消息。支持多个会话，每个会话可单独设时间和内容。时间支持每天定点、每隔几小时/几分钟、或 cron 表达式。（基于官方 custom_auto_reply 的复制版，与原插件完全独立）",
       "scope": "user",
       "path": "plugins/auto_reply_copy/",
-      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/family_reply.png",
+      "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/family_reply.png",
       "tags": [
         "定时消息",
         "多会话规则",

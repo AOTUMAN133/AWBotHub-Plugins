@@ -16,7 +16,7 @@ __plugin__ = {
     "name": "re0签到",
     "id": "myhdhivesign",
     "version": "2.5.0",
-    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotNest-Plugins/main/plugins/icons/myhdhivesign_v2.svg",
+    "icon": "https://raw.githubusercontent.com/AOTUMAN133/AWBotHub-Plugins/main/plugins/icons/myhdhivesign_v2.svg",
     "author": "凹凸曼",
     "description": "自动完成 re0.me 每日签到，支持多账号、赌狗签到、失败重试。",
     "scope": "user",
